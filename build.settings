@@ -1,0 +1,6 @@
+version=0.8.8a
+version.minimum=0.8.7a
+description=Reformat your program using the traditional<br/>(buggy) Arduino Auto-Format tool
+# Path relative to a plugin directory, not this directory
+uecide.path=/u2/home/matt/git/UECIDE
+install.path=/home/matt/.uecide/plugins

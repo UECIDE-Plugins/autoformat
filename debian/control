@@ -1,0 +1,16 @@
+Source: autoformat
+Section: plugins
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: autoformat
+Section: plugins
+Architecture: all
+XBSC-Group: Programming
+Description: Auto Format
+ The traditional (and broken) Arduino source formatter.
+
+
+
